@@ -10,3 +10,4 @@
 @media(max-width:850px){.map-workspace{grid-template-columns:1fr;gap:14px}.map-workspace .locations-console{height:auto;max-height:540px}.map-workspace .point-list{max-height:330px;flex:auto}.map-workspace .map-shell #charnarus-map{height:540px}.services-tabs{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:500px){.map-workspace .map-shell #charnarus-map{height:450px}.map-workspace .locations-console{padding:15px}}
 .map-workspace .map-shell:fullscreen #charnarus-map,.map-workspace .map-shell.is-expanded #charnarus-map{height:100%}
+@media(max-width:700px){.site-nav.is-open>a{display:block}}
